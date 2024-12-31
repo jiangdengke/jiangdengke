@@ -1,40 +1,46 @@
-# 👋 Hi there, I'm Jiangdengke
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Jiangdengke!;Welcome%20to%20my%20profile!&center=true&size=27&width=320">
+</div>
 
-## 🚀 About Me
-- 👨‍💻 I'm currently working on Web Development
-- 🌱 I'm currently learning Advanced JavaScript & Cloud Computing
-- 👯 I'm looking to collaborate on Open Source Projects
-- 💬 Ask me about anything tech related
+<h2>🧑‍💻 About Me</h2>
 
-## 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- 🎯 Backend Developer | Java Engineer
+- 🌱 Currently learning: Go & Python
+- 💡 Always eager to learn new technologies
 
-## 📊 GitHub Stats
-![Jiangdengke's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiangdengke&show_icons=true&theme=radical)
+<h2>🛠️ Skills</h2>
 
-## 💻 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangdengke&layout=compact&theme=radical)](https://github.com/jiangdengke)
+**Current Stack:**  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jiangdengke&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**Learning:**  
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 📌 Pinned Repositories
-<a href="https://github.com/jiangdengke/your-repo-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jiangdengke&repo=your-repo-name&theme=radical" />
-</a>
+<h2>📊 GitHub Stats</h2>
 
-## 📫 How to reach me
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jiangdengke)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:your.email@gmail.com)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jiangdengke&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangdengke&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-## 📈 Activity Graph
-[![Jiangdengke's github activity graph](https://activity-graph.herokuapp.com/graph?username=jiangdengke&theme=react-dark)](https://github.com/jiangdengke)
+<h2>🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/jiangdengke">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
-⭐️ From [jiangdengke](https://github.com/jiangdengke)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jiangdengke&color=blueviolet&style=flat-square&label=Profile+Views"/>
+</p>
+
+<p align="center">⭐️ From <a href="https://github.com/jiangdengke">jiangdengke</a></p>
