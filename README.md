@@ -25,18 +25,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangdengke&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<h2> 🎯 Skills & Tools </h2>
-
-<div align="center">
-
-| Development | Tools & Platform | 
-|------------|------------------|
-| ![Java Core](https://custom-icon-badges.demolab.com/badge/-Java%20Core-red?style=flat-square&logo=java&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![Maven](https://custom-icon-badges.demolab.com/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) |
-| ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) |
-
-</div>
-
 <h2> 🤝 Connect With Me </h2>
 
 <div align="center">
@@ -44,7 +32,7 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:jiang1728439852@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
