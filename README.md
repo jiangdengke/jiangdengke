@@ -13,8 +13,17 @@
 <h2> 🛠️ Technology Stack </h2>
 
 <div align="center">
+
+**🔧 Current Stack**
   
-**🔧 Current:**  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) &nbsp;&nbsp; **📚 Learning:**  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+**📚 Learning**
+  
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
@@ -29,7 +38,7 @@
 
 <div align="center">
   <p>
-    不要寻求答案，因为你找不到的，因为你还无法与之共存。重要的是，你必须活在每一件事里。现在你要经历充满艰难的生活，也许有一天，不知不觉，你将渐渐活出与满答案的人生。与君共勉！
+    不要寻求答案，因为你找不到的，因为你还无法与之共存。重要的是，你必须活在每一件事里。现在你要经历充满艰难的生活，也许有一天，不知不觉，你将渐渐活出与满答案的人生。
   </p>
 </div>
 
