@@ -25,16 +25,12 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangdengke&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<h2> 🤝 Connect With Me </h2>
+<h2> 🤝 Life Philosophy </h2>
 
 <div align="center">
-  <a href="https://github.com/jiangdengke">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="mailto:jiang1728439852@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <p>
+    不要寻求答案，因为你找不到的，因为你还无法与之共存。重要的是，你必须活在每一件事里。现在你要经历充满艰难的生活，也许有一天，不知不觉，你将渐渐活出与满答案的人生。
+  </p>
 </div>
 
 <br>
