@@ -6,8 +6,6 @@
 💪 Striving to become a better engineer every day
 ```
 
-<h2> 🛠️ Technology Stack </h2>
-
 <div align="center">
 
 **🔧 Current Stack**
@@ -21,13 +19,6 @@
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-</div>
-
-<h2> 📊 GitHub Stats </h2>
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jiangdengke&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangdengke&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <h2> 🤝 Life Philosophy </h2>
