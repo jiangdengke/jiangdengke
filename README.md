@@ -1,9 +1,8 @@
 <h2> 🧑‍💻 About Me </h2>
 
 ```text
-🎓 A passionate backend developer from China
-🚀 Focusing on Java development and system architecture
-💪 Striving to become a better engineer every day  
+🎓 A worthless senior computer science student.
+🚀 Possessing ideals yet becoming increasingly pessimistic each day.
 ```
 
 <div align="center">  
