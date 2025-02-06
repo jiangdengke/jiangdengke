@@ -16,14 +16,6 @@
 **📚 Learning**
   
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>            
 
-</div>
-
-<h2> 🤝 Life Philosophy </h2>  
-
-<div align="center">
-  <p>
-    不要寻求答案，因为你找不到的，因为你还无法与之共存。重要的是，你必须活在每一件事里。现在你要经历充满艰难的生活，也许有一天，不知不觉，你将渐渐活出与满答案的人生。
-  </p>
 </div>
